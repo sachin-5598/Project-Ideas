@@ -17,3 +17,8 @@
 * [ ] TV shows tracker
 * [ ] Video sharing portal
 * [ ] Collaborating workspace
+
+## More
+
+* [ ] Inventory App
+* [ ] URL Shortener
