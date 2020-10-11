@@ -17,8 +17,16 @@
 * [ ] TV shows tracker
 * [ ] Video sharing portal
 * [ ] Collaborating workspace
+* [ ] Find me an answer
+* [ ] Calender
+* [ ] Virtual stock market
+* [ ] StrangeFlix streaming
+* [ ] Job recruitment portal
+* [ ] The interview platform
 
 ## More
 
 * [ ] Inventory App
 * [ ] URL Shortener
+* [ ] Twitter Clone
+* [ ] College event website
