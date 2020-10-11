@@ -30,3 +30,5 @@
 * [ ] URL Shortener
 * [ ] Twitter Clone
 * [ ] College event website
+* [ ] Travel Log
+* [ ] Blogging Site
